@@ -1,2 +1,2 @@
 # My Portfolio
-A collection of my favorite works in various languages.
+A collection of my works in various languages.
