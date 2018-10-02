@@ -104,7 +104,7 @@ public class Anagram {
 	 */
 	public static short[] parsePhrase(char[] phrase, boolean[] moveable, boolean test){
 		// ASCII a-z | 97-122
-		short[] moveableIndices = new short[countSwitchableCharacters(phrase, false)];
+		short[] moveableIndices = new short[countMoveableCharacters(phrase, false)];
 		short currentIndex = 0;
 
 		// Find indices of moveable characters
@@ -158,7 +158,7 @@ public class Anagram {
 	 * @param test 		If true, method will print output to terminal
 	 * @return Number of moveable characters in phrase (i.e. lowercase letters only)
 	 */
-	public static int countSwitchableCharacters(char[] phrase, boolean test){
+	public static int countMoveableCharacters(char[] phrase, boolean test){
 		int count = 0;
 
 		for(int i = 0; i < phrase.length; i++) {
@@ -207,9 +207,9 @@ public class Anagram {
 		boolean[] moveableChar2 = new boolean[testString2.length()];
 		boolean[] moveableChar3 = new boolean[testString3.length()];
 
-		countSwitchableCharacters(testString1.toCharArray(), true);
-		countSwitchableCharacters(testString2.toCharArray(), true);
-		countSwitchableCharacters(testString3.toCharArray(), true);
+		countMoveableCharacters(testString1.toCharArray(), true);
+		countMoveableCharacters(testString2.toCharArray(), true);
+		countMoveableCharacters(testString3.toCharArray(), true);
 
 		System.out.println();
 		
