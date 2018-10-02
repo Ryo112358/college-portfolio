@@ -100,7 +100,7 @@ public class Anagram {
 	/** Find indices of moveable characters in a given phrase
 	 * @param phrase 	Phrase in the form of char[]
 	 * @param test 		If true, method will print output to terminal
-	 * @return			Short[] of indices with moveable characters
+	 * @return Short[] of indices with moveable characters
 	 */
 	public static short[] parsePhrase(char[] phrase, boolean[] moveable, boolean test){
 		// ASCII a-z | 97-122
@@ -156,7 +156,7 @@ public class Anagram {
 	/** Count moveable characters in a given phrase
 	 * @param phrase 	Phrase in the form of char[]
 	 * @param test 		If true, method will print output to terminal
-	 * @return 			Number of moveable characters in phrase (i.e. lowercase letters only)
+	 * @return Number of moveable characters in phrase (i.e. lowercase letters only)
 	 */
 	public static int countSwitchableCharacters(char[] phrase, boolean test){
 		int count = 0;
@@ -172,7 +172,7 @@ public class Anagram {
 		return count;
 	}
 
-	/** Shuffle array of shorts
+	/** Shuffle array of type shorts
 	 * @param arr 	Array of shorts
 	 * @param test 	If true, method will print output to terminal
 	 */
@@ -210,15 +210,21 @@ public class Anagram {
 		countSwitchableCharacters(testString1.toCharArray(), true);
 		countSwitchableCharacters(testString2.toCharArray(), true);
 		countSwitchableCharacters(testString3.toCharArray(), true);
+
 		System.out.println();
+		
 		short[] moveableIndices1 = parsePhrase(testString1.toCharArray(), moveableChar1, true);
 		short[] moveableIndices2 = parsePhrase(testString2.toCharArray(), moveableChar2, true);
 		short[] moveableIndices3 = parsePhrase(testString3.toCharArray(), moveableChar3, true);
+		
 		System.out.println();
+		
 		shuffle(moveableIndices1, true);
 		shuffle(moveableIndices2, true);
 		shuffle(moveableIndices3, true);
+		
 		System.out.println();
+		
 		reassemble(testString1, moveableIndices1, moveableChar1, true);
 		reassemble(testString2, moveableIndices2, moveableChar2, true);
 		reassemble(testString3, moveableIndices3, moveableChar3, true);
