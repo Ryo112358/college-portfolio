@@ -1,0 +1,607 @@
+Adventure Game by Pulkit (@Ryo112358)
+
+---------------- Run 1 ----------------
+
+Adventure Game - Start!
+
+Here are the characters.
+ 1. Rogue
+ 2. Paladin
+ 3. Jackie Chan
+
+Which character do you choose?: 3
+
+You chose: Jackie Chan
+
+The Evil Wizard must be defeated! He is in the castle.
+To get to The Castle, you must travel through either: 
+ 1. The Forest
+ 2. The Graveyard
+
+Which path will you take?: 1
+
+You chose: Forest 
+
+***Jackie Chan vs Goblin 1***
+Jackie Chan attacks with ATK = 10 + 4 = 14
+Goblin HP is now 25 - 14 = 11
+
+Goblin attacks with ATK = 4 + 4 = 8
+Jackie Chan HP is now 45 - 8 = 37
+
+Jackie Chan attacks with ATK = 10 + 3 = 13
+Goblin HP is now 11 - 13 = -2
+
+Jackie Chan defeated Goblin 1!
+
+***Jackie Chan vs Goblin 2***
+Jackie Chan attacks with ATK = 10 + 3 = 13
+Goblin HP is now 25 - 13 = 12
+
+Goblin attacks with ATK = 4 + 2 = 6
+Jackie Chan HP is now 37 - 6 = 31
+
+Jackie Chan attacks with ATK = 10 + 3 = 13
+Goblin HP is now 12 - 13 = -1
+
+Jackie Chan defeated Goblin 2!
+
+***Jackie Chan vs Goblin 3***
+Jackie Chan attacks with ATK = 10 + 5 = 15
+Goblin HP is now 25 - 15 = 10
+
+Goblin attacks with ATK = 4 + 2 = 6
+Jackie Chan HP is now 31 - 6 = 25
+
+Jackie Chan attacks with ATK = 10 + 5 = 15
+Goblin HP is now 10 - 15 = -5
+
+Jackie Chan defeated Goblin 3!
+
+--Jackie Chan wins the battle!--
+
+Your HP is: 25
+Your strength is: 10
+
+Please choose a reward.
+ 1. Healing Potion
+ 2. Ring of Strength
+
+Which item do you choose?: 1
+
+You chose: Healing Potion
+
+Your HP has increased to 25 + 10 = 35!
+
+You have now reached the Castle! Time to battle the Evil Wizard!
+
+***Jackie Chan vs The Evil Wizard***
+Choose your action:
+1. Attack
+2. Attempt Spell Cast
+
+What would you like to do?: 2
+
+Enter your guess: 3
+Incorrect ~.~
+
+Wizard attacks with ATK = 8 + 5 = 13
+Jackie Chan HP is now 35 - 13 = 22
+
+Choose your action:
+1. Attack
+2. Attempt Spell Cast
+
+What would you like to do?: 1
+
+Jackie Chan attacks with ATK = 10 + 4 = 14
+Wizard HP is now 40 - 14 = 26
+
+Wizard attacks with ATK = 8 + 6 = 14
+Jackie Chan HP is now 22 - 14 = 8
+
+Choose your action:
+1. Attack
+2. Attempt Spell Cast
+
+What would you like to do?: 2
+
+Enter your guess: 3
+Incorrect ~.~
+
+Wizard attacks with ATK = 8 + 9 = 17
+Jackie Chan HP is now 8 - 17 = -9
+
+--Jackie Chan is defeated in battle!--
+
+GAME OVER
+
+---------------- Run 2 ----------------
+
+Adventure Game - Start!
+
+Here are the characters.
+ 1. Rogue
+ 2. Paladin
+ 3. Jackie Chan
+
+Which character do you choose?: 3
+
+You chose: Jackie Chan
+
+The Evil Wizard must be defeated! He is in the castle.
+To get to The Castle, you must travel through either: 
+ 1. The Forest
+ 2. The Graveyard
+
+Which path will you take?: 2
+
+You chose: Graveyard 
+
+***Jackie Chan vs Skeleton 1***
+Jackie Chan attacks with ATK = 10 + 6 = 16
+Skeleton HP is now 25 - 16 = 9
+
+Skeleton attacks with ATK = 3 + 3 = 6
+Jackie Chan HP is now 45 - 6 = 39
+
+Jackie Chan attacks with ATK = 10 + 6 = 16
+Skeleton HP is now 9 - 16 = -7
+
+Jackie Chan defeated Skeleton 1!
+
+***Jackie Chan vs Skeleton 2***
+Jackie Chan attacks with ATK = 10 + 4 = 14
+Skeleton HP is now 25 - 14 = 11
+
+Skeleton attacks with ATK = 3 + 4 = 7
+Jackie Chan HP is now 39 - 7 = 32
+
+Jackie Chan attacks with ATK = 10 + 6 = 16
+Skeleton HP is now 11 - 16 = -5
+
+Jackie Chan defeated Skeleton 2!
+
+***Jackie Chan vs Skeleton 3***
+Jackie Chan attacks with ATK = 10 + 5 = 15
+Skeleton HP is now 25 - 15 = 10
+
+Skeleton attacks with ATK = 3 + 3 = 6
+Jackie Chan HP is now 32 - 6 = 26
+
+Jackie Chan attacks with ATK = 10 + 2 = 12
+Skeleton HP is now 10 - 12 = -2
+
+Jackie Chan defeated Skeleton 3!
+
+***Jackie Chan vs Skeleton 4***
+Jackie Chan attacks with ATK = 10 + 6 = 16
+Skeleton HP is now 25 - 16 = 9
+
+Skeleton attacks with ATK = 3 + 2 = 5
+Jackie Chan HP is now 26 - 5 = 21
+
+Jackie Chan attacks with ATK = 10 + 3 = 13
+Skeleton HP is now 9 - 13 = -4
+
+Jackie Chan defeated Skeleton 4!
+
+***Jackie Chan vs Skeleton 5***
+Jackie Chan attacks with ATK = 10 + 2 = 12
+Skeleton HP is now 25 - 12 = 13
+
+Skeleton attacks with ATK = 3 + 4 = 7
+Jackie Chan HP is now 21 - 7 = 14
+
+Jackie Chan attacks with ATK = 10 + 3 = 13
+Skeleton HP is now 13 - 13 = 0
+
+Jackie Chan defeated Skeleton 5!
+
+--Jackie Chan wins the battle!--
+
+Your HP is: 14
+Your strength is: 10
+
+Please choose a reward.
+ 1. Healing Potion
+ 2. Ring of Strength
+
+Which item do you choose?: 1
+
+You chose: Healing Potion
+
+Your HP has increased to 14 + 10 = 24!
+
+You have now reached the Castle! Time to battle the Evil Wizard!
+
+***Jackie Chan vs The Evil Wizard***
+Choose your action:
+1. Attack
+2. Attempt Spell Cast
+
+What would you like to do?: 2
+
+Enter your guess: 3
+Correct!
+
+The Jackie Chan's spell is cast successfully! The Wizard's HP is now 0!
+
+--Jackie Chan wins the battle!--
+
+You win! Congratulations!
+
+---------------- Run 3 ----------------
+
+Adventure Game - Start!
+
+Here are the characters.
+ 1. Rogue
+ 2. Paladin
+ 3. Jackie Chan
+
+Which character do you choose?: 1
+
+You chose: Rogue
+
+The Evil Wizard must be defeated! He is in the castle.
+To get to The Castle, you must travel through either: 
+ 1. The Forest
+ 2. The Graveyard
+
+Which path will you take?: 2
+
+You chose: Graveyard 
+
+***Rogue vs Skeleton 1***
+Rogue attacks with ATK = 8 + 2 = 10
+Skeleton HP is now 25 - 10 = 15
+
+Skeleton attacks with ATK = 3 + 2 = 5
+Rogue HP is now 55 - 5 = 50
+
+Rogue attacks with ATK = 8 + 4 = 12
+Skeleton HP is now 15 - 12 = 3
+
+Skeleton attacks with ATK = 3 + 1 = 4
+Rogue HP is now 50 - 4 = 46
+
+Rogue attacks with ATK = 8 + 1 = 9
+Skeleton HP is now 3 - 9 = -6
+
+Rogue defeated Skeleton 1!
+
+***Rogue vs Skeleton 2***
+Rogue attacks with ATK = 8 + 2 = 10
+Skeleton HP is now 25 - 10 = 15
+
+Skeleton attacks with ATK = 3 + 1 = 4
+Rogue HP is now 46 - 4 = 42
+
+Rogue attacks with ATK = 8 + 2 = 10
+Skeleton HP is now 15 - 10 = 5
+
+Skeleton attacks with ATK = 3 + 2 = 5
+Rogue HP is now 42 - 5 = 37
+
+Rogue attacks with ATK = 8 + 1 = 9
+Skeleton HP is now 5 - 9 = -4
+
+Rogue defeated Skeleton 2!
+
+***Rogue vs Skeleton 3***
+Rogue attacks with ATK = 8 + 2 = 10
+Skeleton HP is now 25 - 10 = 15
+
+Skeleton attacks with ATK = 3 + 4 = 7
+Rogue HP is now 37 - 7 = 30
+
+Rogue attacks with ATK = 8 + 4 = 12
+Skeleton HP is now 15 - 12 = 3
+
+Skeleton attacks with ATK = 3 + 4 = 7
+Rogue HP is now 30 - 7 = 23
+
+Rogue attacks with ATK = 8 + 1 = 9
+Skeleton HP is now 3 - 9 = -6
+
+Rogue defeated Skeleton 3!
+
+***Rogue vs Skeleton 4***
+Rogue attacks with ATK = 8 + 1 = 9
+Skeleton HP is now 25 - 9 = 16
+
+Skeleton attacks with ATK = 3 + 1 = 4
+Rogue HP is now 23 - 4 = 19
+
+Rogue attacks with ATK = 8 + 2 = 10
+Skeleton HP is now 16 - 10 = 6
+
+Skeleton attacks with ATK = 3 + 1 = 4
+Rogue HP is now 19 - 4 = 15
+
+Rogue attacks with ATK = 8 + 3 = 11
+Skeleton HP is now 6 - 11 = -5
+
+Rogue defeated Skeleton 4!
+
+***Rogue vs Skeleton 5***
+Rogue attacks with ATK = 8 + 2 = 10
+Skeleton HP is now 25 - 10 = 15
+
+Skeleton attacks with ATK = 3 + 4 = 7
+Rogue HP is now 15 - 7 = 8
+
+Rogue attacks with ATK = 8 + 2 = 10
+Skeleton HP is now 15 - 10 = 5
+
+Skeleton attacks with ATK = 3 + 2 = 5
+Rogue HP is now 8 - 5 = 3
+
+Rogue attacks with ATK = 8 + 3 = 11
+Skeleton HP is now 5 - 11 = -6
+
+Rogue defeated Skeleton 5!
+
+--Rogue wins the battle!--
+
+Your HP is: 3
+Your strength is: 8
+
+Please choose a reward.
+ 1. Healing Potion
+ 2. Ring of Strength
+
+Which item do you choose?: 1
+
+You chose: Healing Potion
+
+Your HP has increased to 3 + 10 = 13!
+
+You have now reached the Castle! Time to battle the Evil Wizard!
+
+***Rogue vs The Evil Wizard***
+Choose your action:
+1. Attack
+2. Attempt Spell Cast
+
+What would you like to do?: 2
+
+Enter your guess: 4
+Incorrect ~.~
+
+Wizard attacks with ATK = 8 + 4 = 12
+Rogue HP is now 13 - 12 = 1
+
+Choose your action:
+1. Attack
+2. Attempt Spell Cast
+
+What would you like to do?: 2
+
+Enter your guess: 2
+Incorrect ~.~
+
+Wizard attacks with ATK = 8 + 5 = 13
+Rogue HP is now 1 - 13 = -12
+
+--Rogue is defeated in battle!--
+
+GAME OVER
+
+---------------- Run 4 ----------------
+
+Adventure Game - Start!
+
+Here are the characters.
+ 1. Rogue
+ 2. Paladin
+ 3. Jackie Chan
+
+Which character do you choose?: 2
+
+You chose: Paladin
+
+The Evil Wizard must be defeated! He is in the castle.
+To get to The Castle, you must travel through either: 
+ 1. The Forest
+ 2. The Graveyard
+
+Which path will you take?: 1
+
+You chose: Forest 
+
+***Paladin vs Goblin 1***
+Paladin attacks with ATK = 14 + 4 = 18
+Goblin HP is now 25 - 18 = 7
+
+Goblin attacks with ATK = 4 + 4 = 8
+Paladin HP is now 35 - 8 = 27
+
+Paladin attacks with ATK = 14 + 5 = 19
+Goblin HP is now 7 - 19 = -12
+
+Paladin defeated Goblin 1!
+
+***Paladin vs Goblin 2***
+Paladin attacks with ATK = 14 + 3 = 17
+Goblin HP is now 25 - 17 = 8
+
+Goblin attacks with ATK = 4 + 3 = 7
+Paladin HP is now 27 - 7 = 20
+
+Paladin attacks with ATK = 14 + 4 = 18
+Goblin HP is now 8 - 18 = -10
+
+Paladin defeated Goblin 2!
+
+***Paladin vs Goblin 3***
+Paladin attacks with ATK = 14 + 6 = 20
+Goblin HP is now 25 - 20 = 5
+
+Goblin attacks with ATK = 4 + 5 = 9
+Paladin HP is now 20 - 9 = 11
+
+Paladin attacks with ATK = 14 + 7 = 21
+Goblin HP is now 5 - 21 = -16
+
+Paladin defeated Goblin 3!
+
+--Paladin wins the battle!--
+
+Your HP is: 11
+Your strength is: 14
+
+Please choose a reward.
+ 1. Healing Potion
+ 2. Ring of Strength
+
+Which item do you choose?: 1
+
+You chose: Healing Potion
+
+Your HP has increased to 11 + 10 = 21!
+
+You have now reached the Castle! Time to battle the Evil Wizard!
+
+***Paladin vs The Evil Wizard***
+Choose your action:
+1. Attack
+2. Attempt Spell Cast
+
+What would you like to do?: 1
+
+Paladin attacks with ATK = 14 + 5 = 19
+Wizard HP is now 40 - 19 = 21
+
+Wizard attacks with ATK = 8 + 4 = 12
+Paladin HP is now 21 - 12 = 9
+
+Choose your action:
+1. Attack
+2. Attempt Spell Cast
+
+What would you like to do?: 2
+
+Enter your guess: 3
+Incorrect ~.~
+
+Wizard attacks with ATK = 8 + 7 = 15
+Paladin HP is now 9 - 15 = -6
+
+--Paladin is defeated in battle!--
+
+GAME OVER
+
+---------------- Run 5 ----------------
+
+Adventure Game - Start!
+
+Here are the characters.
+ 1. Rogue
+ 2. Paladin
+ 3. Jackie Chan
+
+Which character do you choose?: 3
+
+You chose: Jackie Chan
+
+The Evil Wizard must be defeated! He is in the castle.
+To get to The Castle, you must travel through either: 
+ 1. The Forest
+ 2. The Graveyard
+
+Which path will you take?: 1
+
+You chose: Forest 
+
+***Jackie Chan vs Goblin 1***
+Jackie Chan attacks with ATK = 10 + 2 = 12
+Goblin HP is now 25 - 12 = 13
+
+Goblin attacks with ATK = 4 + 5 = 9
+Jackie Chan HP is now 45 - 9 = 36
+
+Jackie Chan attacks with ATK = 10 + 3 = 13
+Goblin HP is now 13 - 13 = 0
+
+Jackie Chan defeated Goblin 1!
+
+***Jackie Chan vs Goblin 2***
+Jackie Chan attacks with ATK = 10 + 6 = 16
+Goblin HP is now 25 - 16 = 9
+
+Goblin attacks with ATK = 4 + 5 = 9
+Jackie Chan HP is now 36 - 9 = 27
+
+Jackie Chan attacks with ATK = 10 + 6 = 16
+Goblin HP is now 9 - 16 = -7
+
+Jackie Chan defeated Goblin 2!
+
+***Jackie Chan vs Goblin 3***
+Jackie Chan attacks with ATK = 10 + 3 = 13
+Goblin HP is now 25 - 13 = 12
+
+Goblin attacks with ATK = 4 + 2 = 6
+Jackie Chan HP is now 27 - 6 = 21
+
+Jackie Chan attacks with ATK = 10 + 4 = 14
+Goblin HP is now 12 - 14 = -2
+
+Jackie Chan defeated Goblin 3!
+
+--Jackie Chan wins the battle!--
+
+Your HP is: 21
+Your strength is: 10
+
+Please choose a reward.
+ 1. Healing Potion
+ 2. Ring of Strength
+
+Which item do you choose?: 1
+
+You chose: Healing Potion
+
+Your HP has increased to 21 + 10 = 31!
+
+You have now reached the Castle! Time to battle the Evil Wizard!
+
+***Jackie Chan vs The Evil Wizard***
+Choose your action:
+1. Attack
+2. Attempt Spell Cast
+
+What would you like to do?: 1
+
+Jackie Chan attacks with ATK = 10 + 3 = 13
+Wizard HP is now 40 - 13 = 27
+
+Wizard attacks with ATK = 8 + 4 = 12
+Jackie Chan HP is now 31 - 12 = 19
+
+Choose your action:
+1. Attack
+2. Attempt Spell Cast
+
+What would you like to do?: 1
+
+Jackie Chan attacks with ATK = 10 + 3 = 13
+Wizard HP is now 27 - 13 = 14
+
+Wizard attacks with ATK = 8 + 10 = 18
+Jackie Chan HP is now 19 - 18 = 1
+
+Choose your action:
+1. Attack
+2. Attempt Spell Cast
+
+What would you like to do?: 1
+
+Jackie Chan attacks with ATK = 10 + 6 = 16
+Wizard HP is now 14 - 16 = -2
+
+--Jackie Chan wins the battle!--
+
+You win! Congratulations!
